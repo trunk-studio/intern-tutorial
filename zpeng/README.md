@@ -50,3 +50,13 @@ node practice5_index.js
 when the browser is opened, the terminal print "server has started"
 
 **that is my fifth practice**
+
+
+**pracrice6 ＝ 了解路由**
+JUST run...
+\n
+node practice6_index.js
+\n
+when the browser is opened, the terminal print the url
+
+**that is my sixth practice**
