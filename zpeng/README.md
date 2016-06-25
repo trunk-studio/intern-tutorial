@@ -18,4 +18,25 @@ then open the browser which port is 8888
 \n
 output "hello" on browser
 
-**that is my second practie**
+**that is my second practice**
+
+
+**pracrice3 = 函數傳遞**
+
+JUST run...
+\n
+node practice3.js
+\n
+then print hello on the terminal
+
+**that is my third practice**
+
+
+**pracrice4 ＝ callback**
+JUST run...
+\n
+node practice4.js
+\n
+when the browser is opened, the terminal print "server has started"
+
+**that is my fourth practice**
