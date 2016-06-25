@@ -40,3 +40,13 @@ node practice4.js
 when the browser is opened, the terminal print "server has started"
 
 **that is my fourth practice**
+
+
+**pracrice5 ＝ 了解http模組**
+JUST run...
+\n
+node practice5_index.js
+\n
+when the browser is opened, the terminal print "server has started"
+
+**that is my fifth practice**
