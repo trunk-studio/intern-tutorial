@@ -106,3 +106,16 @@ you will wait the localhost:8888/start for  10S
 but you will see the localhost:8888/upload loading immediately
 that is ,non-blocking
 **that is my tenth practice**
+
+**pracrice11 ＝ simple example for POST**
+JUST run...
+\n
+node practice11_index.js
+\n
+and open the two browser pages on localhost:8888/start and key something on the textarea
+\n
+and press submit button
+\n
+you will goto the localhost:8888/upload and see what you key at that time
+\n
+**that is my eleventh practice**
