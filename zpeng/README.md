@@ -79,3 +79,16 @@ node practice8_index.js
 when the browser is opened, the terminal print 正確的程序 and browser print the right page
 
 **that is my eighth practice**
+
+
+**pracrice9 ＝ 了解i/o is asynchronous**
+JUST run...
+\n
+node practice9_index.js
+\n
+and open the two browser pages on localhost:8888/start and localhost:8888/upload
+\n
+you will find two pages are waiting the 10 second at the same time
+\n
+that is ,blocking
+**that is my ninth practice**
