@@ -60,3 +60,22 @@ node practice6_index.js
 when the browser is opened, the terminal print the url
 
 **that is my sixth practice**
+
+**pracrice7 ＝ 了解路由請求程序**
+JUST run...
+\n
+node practice7_index.js
+\n
+when the browser is opened, the terminal print the 程序
+
+**that is my seventh practice**
+
+
+**pracrice8 ＝ 讓請求處理程序做出回應**
+JUST run...
+\n
+node practice8_index.js
+\n
+when the browser is opened, the terminal print 正確的程序 and browser print the right page
+
+**that is my eighth practice**
