@@ -92,3 +92,17 @@ you will find two pages are waiting the 10 second at the same time
 \n
 that is ,blocking
 **that is my ninth practice**
+
+
+**pracrice10 ＝ 實現好的non-blocking**
+JUST run...
+\n
+node practice10_index.js
+\n
+and open the two browser pages on localhost:8888/start and localhost:8888/upload
+\n
+you will wait the localhost:8888/start for  10S
+\n
+but you will see the localhost:8888/upload loading immediately
+that is ,non-blocking
+**that is my tenth practice**
