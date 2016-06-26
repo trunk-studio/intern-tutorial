@@ -1,0 +1,17 @@
+{
+  "name": "imgur-uploader",
+  "version": "0.0.1",
+  "description": "simple imgur upload api",
+  "main": "imgur_uploader.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "imgur"
+  ],
+  "author": "ken",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
