@@ -1,1 +1,1 @@
-open test.js
+echo open test.js
