@@ -119,3 +119,17 @@ and press submit button
 you will goto the localhost:8888/upload and see what you key at that time
 
 that is my eleventh practice
+
+
+##pracrice12 ＝ simple example for uploading graph
+JUST run...
+
+node practice12.js
+
+and open the browser pages on localhost:8888 and click the button which could let user to select graph in their computer
+
+and press the upload button
+
+you will see what you upload.
+
+that is my eleventh practice
