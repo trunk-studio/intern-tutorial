@@ -132,4 +132,21 @@ and press the upload button
 
 you will see what you upload.
 
-that is my eleventh practice
+that is my twelfth practice
+
+
+
+##pracrice13 ＝ complete upload graph
+JUST run...
+
+node index.js
+
+and open the browser pages on localhost:8888/start
+
+and click the button which could let user to select graph in their computer
+
+and press the upload button
+
+you will see what you upload on localhost:8888/upload and localhost:8888/show.
+
+that is my thirteenth practice
