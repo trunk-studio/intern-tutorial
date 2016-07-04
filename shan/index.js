@@ -1,1 +1,3 @@
-console.log("hello,nodejs")
+var server = require("./server");
+
+server.start();
