@@ -1,0 +1,7 @@
+{
+  "name": "async_await",
+  "version": "1.0.0",
+  "dependencies": {
+    "asyncawait": "^1.0.6"
+  }
+}
